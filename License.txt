@@ -1,0 +1,14 @@
+
+
+Server Monitor is distributed as a freeware.
+Feel free to redistribute with the original license, brand name and copyright.
+If you downloaded a source code, you may modify and recompile the code 
+but do not "rebrand" it.
+There is no support for this software provided.
+Questions about software might be answered by a developer.
+Use contact form: http://www.gurgensvbstuff.com/index.php?ID=30
+
+===============================================================
+Developed by GASoft ©2002-2006
+http://www.gurgensvbstuff.com/index.php?ID=04
+http://www.4u2ges.com/
