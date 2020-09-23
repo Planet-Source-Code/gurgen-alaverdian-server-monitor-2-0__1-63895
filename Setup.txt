@@ -1,0 +1,27 @@
+
+This software is intended for the use by experienced IT professionals.
+Don't mean to be rude, but if you do not know how to register a .dll library 
+or have no idea what the administrative share is, then most likely the 
+software is not going to be useful for you.
+=====================================================================
+
+Server Monitor was developed in VS 6.0 SP5
+
+If you intended to use Event Monitoring with Server Monitor then
+	download vb40032.dll and EVNTLOG2.DLL at: http://www.gurgensvbstuff.com/index.php?ID=04 
+	Drop vb40032.dll and EVNTLOG2.DLL into system32. Register EVNTLOG2.DLL
+End If
+
+If you get an error when running the code then 
+	note error number and description and send it to developer:
+	http://www.gurgensvbstuff.com/index.php?ID=30
+End If
+
+For more info 
+	see monitor.chm help
+Next
+
+======================================================================
+Developed by GASoft ©2002-2006
+http://www.gurgensvbstuff.com/
+http://www.4u2ges.com/ 
